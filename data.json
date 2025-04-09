@@ -1,0 +1,113 @@
+{
+    "siteInfo": {
+      "name": "VenusElite",
+      "tagline": "Outsourced Accounting Made Simple",
+      "logo": "Screenshot 2025-04-07 at 9.17.21 PM.png",
+      "year": "2025"
+    },
+    "navigation": {
+      "links": [
+        { "text": "Home", "url": "#", "active": true },
+        { "text": "Services", "url": "#", "active": false },
+        { "text": "Contact", "url": "#", "active": false }
+      ]
+    },
+    "hero": {
+      "title": "Outsourced Accounting Made Simple",
+      "description": "Are you struggling to manage your back-office accounting functions? Do you need a fractional CFO to grow your business? Wolf & Company alleviates stress, saves time, and scales to meet your needs, on your terms – so you can grow with confidence.",
+      "cta": {
+        "text": "GET STARTED",
+        "url": "#"
+      }
+    },
+    "testimonial": {
+      "quote": "Perfection isn't our goal—it's our starting point. Your books deserve more than just accuracy; they deserve the kind of thoughtful, detail-obsessed care that makes financial headaches disappear.",
+      "conclusion": "SO You can breathe a big sigh of relief. Your books are in good hands."
+    },
+    "contactInvite": {
+      "heading": "If any of this sounds of interest to you, please do not hesitate to contact us.",
+      "description": "Our initial consultations are free as we want to ensure that our firm is a good fit for all our clients."
+    },
+    "services": {
+      "icon": "fas fa-calculator",
+      "heading": "A Few of Our Services",
+      "columns": [
+        {
+          "title": "Set up + Clean Up",
+          "items": [
+            "Accounting clean-up",
+            "Desktop to online conversion",
+            "Third party app integrations",
+            "Review fastest ways to collect payment from customers (i.e. PayPal, Intuit Payments, Stripe)",
+            "Fintech advisory",
+            "Cyber security discussion"
+          ]
+        },
+        {
+          "title": "Bookkeeping",
+          "items": [
+            "Recording financial transactions",
+            "Entering bills from vendors",
+            "Applying payments to invoices",
+            "Split revenue and expenses by classes",
+            "Bank reconciliations",
+            "Track fixed assets",
+            "Reviewing and maintaining the general ledger",
+            "1099 Creation"
+          ]
+        },
+        {
+          "title": "Fractional Controller",
+          "items": [
+            "Manage cash flow",
+            "Creating aged payables/receivables schedules",
+            "Time tracking and payroll strategy",
+            "Simple financial reporting (income statement, balance sheet, statement of cash flows)",
+            "Budgeting",
+            "Making adjusting entries",
+            "Managing bookkeeping team"
+          ]
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Ready to transform your accounting experience?",
+      "description": "Let's discuss how we can help your business grow with confidence.",
+      "button": {
+        "text": "Schedule a Free Consultation",
+        "url": "#"
+      }
+    },
+    "footer": {
+      "company": {
+        "heading": "Company",
+        "links": [
+          { "text": "About Us", "url": "#" },
+          { "text": "Our Team", "url": "#" },
+          { "text": "Careers", "url": "#" },
+          { "text": "Blog", "url": "#" }
+        ]
+      },
+      "services": {
+        "heading": "Services",
+        "links": [
+          { "text": "Bookkeeping", "url": "#" },
+          { "text": "Fractional CFO", "url": "#" },
+          { "text": "Tax Planning", "url": "#" },
+          { "text": "Financial Reporting", "url": "#" }
+        ]
+      },
+      "contact": {
+        "heading": "Contact",
+        "phone": "(123) 456-7890",
+        "email": "info@venuselite.com",
+        "social": [
+          { "icon": "fab fa-linkedin", "url": "#" },
+          { "icon": "fab fa-twitter", "url": "#" },
+          { "icon": "fab fa-facebook", "url": "#" }
+        ]
+      }
+    }
+  }
+  
+  
